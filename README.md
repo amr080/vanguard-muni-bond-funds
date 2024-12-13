@@ -1,7 +1,7 @@
 # VANGUARD
 
 
-VANGUARD MUNICIPAL BOND FUNDS (CIK [0000225997](https://www.sec.gov/edgar/browse/?CIK=225997)
+VANGUARD MUNICIPAL BOND FUNDS (CIK [0000225997](https://www.sec.gov/edgar/browse/?CIK=225997))
 
 
 
